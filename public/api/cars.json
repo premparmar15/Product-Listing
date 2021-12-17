@@ -1,0 +1,3518 @@
+[
+    {
+        "carId": "1051303423",
+        "carName": "Maruti Alto",
+        "year": 2010,
+        "fuelType": "Petrol",
+        "kilometerDriven": 30754,
+        "price": 159599,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1051303423/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/7/R5QYZ5Z/v0/exteriorTyres/mainImages/frontleftside_1612696434.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 4671,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Noida",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 2939,
+        "registrationNumber": "DL7C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO",
+        "lmsShareLink": "https://buy.24c.in/qxM9tY",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 158591,
+        "originalPrice": 174599,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-02-09T14:49:06.421",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1051303423",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1051303423/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 3707,
+        "cashDownPayment": 23940,
+        "carScores": {
+            "cluster1": 25.103407688438892,
+            "cluster0": 25.229344427585602,
+            "cluster8": 25.477328419685364,
+            "cluster7": 25.163053333759308,
+            "cluster6": 25.00646570371464,
+            "defaultScore": 29.59421682357788,
+            "cluster5": 25.328968554735184,
+            "cluster4": 25.948540031909943,
+            "cluster3": 25.054060239344835,
+            "cluster2": 25.344932734966278
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1002278722",
+        "carName": "Maruti Alto 800",
+        "year": 2016,
+        "fuelType": "Petrol",
+        "kilometerDriven": 33510,
+        "price": 259899,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1002278722/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/01/30/R53CQRR/v3/exteriorTyres/mainImages/frontleftside_1613480124.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 2053,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-North Delhi",
+        "variant": "VXI",
+        "isC24Assured": false,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 49406,
+        "registrationNumber": "DL5C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/SRwmHp",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 258000,
+        "originalPrice": 274899,
+        "dealRating": "GREAT",
+        "sellerBuddyId": 28899241,
+        "createdDate": "2021-02-08T18:02:46.102",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1002278722",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1002278722/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6037,
+        "cashDownPayment": 38985,
+        "carScores": {
+            "cluster1": 25.521064698696136,
+            "cluster0": 25.254310190677643,
+            "cluster8": 25.110827699303627,
+            "cluster7": 25.727769136428833,
+            "cluster6": 25.054451797157526,
+            "defaultScore": 29.028115272521973,
+            "cluster5": 25.241880655288696,
+            "cluster4": 25.938811480998993,
+            "cluster3": 25.16504357755184,
+            "cluster2": 25.672537684440613
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1008262222",
+        "carName": "Maruti Alto K10",
+        "year": 2015,
+        "fuelType": "Petrol",
+        "kilometerDriven": 19044,
+        "price": 273599,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1008262222/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/20/R5Y6533/v2/exteriorTyres/mainImages/frontleftside_1614859565.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 3668,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-South Delhi",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 45245,
+        "registrationNumber": "DL8C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO K10",
+        "lmsShareLink": "https://buy.24c.in/pdbHnQ",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 88,
+        "c24Quote": 264903,
+        "originalPrice": 278599,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-02-21T06:25:37.728",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1008262222",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Windshield Soft Spot (0)",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Front Left Bumper/Cover Scratched (3 to 4 inches)",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-26.jpg"
+            },
+            {
+                "label": "Right Rear Bumper/Cover Scratched (3 to 4 inches)",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-27.jpg"
+            },
+            {
+                "label": "Right Front Seat Torn (1 to 3 inches)",
+                "url": "inspection-car/appointments/1008262222/spincar/cu-28.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Vasant Square Mall, Vasant Kunj, New Delhi",
+        "emiStartingValue": 6355,
+        "cashDownPayment": 41040,
+        "carScores": {
+            "cluster1": 25.4842229783535,
+            "cluster0": 25.238379254937172,
+            "cluster8": 25.121658094227314,
+            "cluster7": 25.81078040599823,
+            "cluster6": 25.007264579180628,
+            "defaultScore": 29.49834442138672,
+            "cluster5": 25.115617468953133,
+            "cluster4": 25.935482144355774,
+            "cluster3": 25.282501131296158,
+            "cluster2": 25.509157836437225
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1007023722",
+        "carName": "Maruti Alto K10",
+        "year": 2015,
+        "fuelType": "Petrol",
+        "kilometerDriven": 39904,
+        "price": 252899,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1007023722/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/9/R5XX63Q/v2/exteriorTyres/mainImages/frontleftside_1614168240.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 610,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Pitampura GU Block",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 9718,
+        "registrationNumber": "DL8C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO K10",
+        "lmsShareLink": "https://buy.24c.in/VgaCU8",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 217258,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": 28899241,
+        "createdDate": "2021-02-09T11:25:40.036",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1007023722",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Windshield Chipped",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Right Front Door Edge Heavy Scratch (> 12 inches)",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-26.jpg"
+            },
+            {
+                "label": "Right Rear Door Heavy Scratch (6 to 7 inches)",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-27.jpg"
+            },
+            {
+                "label": "Left Tail Light Damage",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-28.jpg"
+            },
+            {
+                "label": "Front Bumper Damage",
+                "url": "inspection-car/appointments/1007023722/spincar/cu-29.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 5874,
+        "cashDownPayment": 37935,
+        "carScores": {
+            "cluster1": 25.414653927087784,
+            "cluster0": 25.23828288912773,
+            "cluster8": 25.191492021083832,
+            "cluster7": 25.655347645282745,
+            "cluster6": 25.029867980629206,
+            "defaultScore": 29.126148223876953,
+            "cluster5": 25.318473875522614,
+            "cluster4": 25.934874355793,
+            "cluster3": 25.136472299695015,
+            "cluster2": 25.53111469745636
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1018802020",
+        "carName": "Hyundai Eon",
+        "year": 2014,
+        "fuelType": "Petrol",
+        "kilometerDriven": 44012,
+        "price": 208999,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1018802020/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/22/R5YZ5QC/v2/exteriorTyres/mainImages/frontleftside_1615274102.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 4579,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Hero Honda Chowk",
+        "variant": "ERA PLUS",
+        "isC24Assured": true,
+        "registrationCity": "Gurgaon",
+        "registrationState": "Haryana",
+        "isTopSelling": true,
+        "calculatedScore": 41622,
+        "registrationNumber": "HR26",
+        "carSource": "GS_CAR",
+        "make": "HYUNDAI",
+        "model": "EON",
+        "lmsShareLink": "https://buy.24c.in/BidRtd",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 88,
+        "c24Quote": 215929,
+        "originalPrice": 213999,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-02-25T04:36:00.637",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1018802020",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Windshield Chipped",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Front Bumper Damage",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-26.jpg"
+            },
+            {
+                "label": "Hood Scratches",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-27.jpg"
+            },
+            {
+                "label": "Left Front Fender Scratches",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-28.jpg"
+            },
+            {
+                "label": "Left Rear Door Multiple Scratches Light",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-29.jpg"
+            },
+            {
+                "label": "Left Qtr Panel Dent",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-30.jpg"
+            },
+            {
+                "label": "Right Qtr Panel Multiple Scratches Light",
+                "url": "inspection-car/appointments/1018802020/spincar/cu-31.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Vasant Square Mall, Vasant Kunj, New Delhi",
+        "emiStartingValue": 4855,
+        "cashDownPayment": 31350,
+        "carScores": {
+            "cluster1": 25.2613086104393,
+            "cluster0": 25.271053105592728,
+            "cluster8": 25.198782861232758,
+            "cluster7": 25.623900711536407,
+            "cluster6": 25.01290352921933,
+            "defaultScore": 29.16034507751465,
+            "cluster5": 25.475280344486237,
+            "cluster4": 25.9330815076828,
+            "cluster3": 25.052265591919422,
+            "cluster2": 25.307250142097473
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1125202927",
+        "carName": "Maruti Alto K10",
+        "year": 2012,
+        "fuelType": "Petrol",
+        "kilometerDriven": 35139,
+        "price": 196799,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1125202927/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/14/R555ZDX/v3/exteriorTyres/mainImages/frontleftside_1614931698.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 2222,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Ghaziabad",
+        "variant": "VXI",
+        "isC24Assured": false,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 468000,
+        "registrationNumber": "DL13",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO K10",
+        "lmsShareLink": "https://buy.24c.in/g8ARJw",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 2,
+        "parkingYardId": 101,
+        "c24Quote": 197328,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-02-15T14:02:01.024",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1125202927",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Front Right Bumper/Cover Scratched (1 to 2 inches)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Hood Dent (1 to 2 inches)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-26.jpg"
+            },
+            {
+                "label": "Left Front Fender Scratched (1 to 2 inches)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-27.jpg"
+            },
+            {
+                "label": "Left Rear Door Scorched (1/2 to 1 inch)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-28.jpg"
+            },
+            {
+                "label": "Left Qtr Panel Scratched (1 to 2 inches)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-29.jpg"
+            },
+            {
+                "label": "Rear Bumper Scratched (1 to 2 inches)",
+                "url": "inspection-car/appointments/1125202927/spincar/cu-30.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 4571,
+        "cashDownPayment": 29520,
+        "carScores": {
+            "cluster1": 25.168940097093582,
+            "cluster0": 25.255990505218506,
+            "cluster8": 25.217107355594635,
+            "cluster7": 25.137941017746925,
+            "cluster6": 25.010680423118174,
+            "defaultScore": 29.420689582824707,
+            "cluster5": 25.455347537994385,
+            "cluster4": 25.92260652780533,
+            "cluster3": 25.09833813458681,
+            "cluster2": 25.36949184536934
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1121495925",
+        "carName": "Maruti Alto K10",
+        "year": 2018,
+        "fuelType": "Petrol",
+        "kilometerDriven": 17773,
+        "price": 288699,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1121495925/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/01/11/RXYXZYC/v2/exteriorTyres/mainImages/frontleftside_1611566107.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "RE_PUBLISH",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1689,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Vaishali",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Ghaziabad",
+        "registrationState": "Uttar Pradesh",
+        "isTopSelling": true,
+        "calculatedScore": 27197,
+        "registrationNumber": "UP14",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO K10",
+        "lmsShareLink": "https://buy.24c.in/2Gp7sA",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 303191,
+        "originalPrice": 298699,
+        "dealRating": "GREAT",
+        "sellerBuddyId": 30231580,
+        "createdDate": "2021-01-12T08:20:02.094",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1121495925",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Right Front Mirror Housing",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Rear Bumper Scratches",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-26.jpg"
+            },
+            {
+                "label": "DAMAGE 3",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-27.jpg"
+            },
+            {
+                "label": "DAMAGE 4",
+                "url": "inspection-car/appointments/1121495925/spincar/cu-28.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6706,
+        "cashDownPayment": 43305,
+        "carScores": {
+            "cluster1": 25.519785404205322,
+            "cluster0": 25.385437935590744,
+            "cluster8": 25.17340275645256,
+            "cluster7": 25.86914348602295,
+            "cluster6": 25.028097385540605,
+            "defaultScore": 28.743138313293457,
+            "cluster5": 25.056026928126812,
+            "cluster4": 25.920675098896027,
+            "cluster3": 25.303699493408203,
+            "cluster2": 25.56841552257538
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1057695222",
+        "carName": "Maruti Alto",
+        "year": 2010,
+        "fuelType": "Petrol",
+        "kilometerDriven": 70239,
+        "price": 146999,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1057695222/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/01/17/R5CZ5RQ/v0/exteriorTyres/mainImages/frontleftside_1610858865.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1911,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Mayur Vihar Phase 1",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 2526,
+        "registrationNumber": "DL3C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO",
+        "lmsShareLink": "https://buy.24c.in/FHailZ",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 137930,
+        "originalPrice": 151999,
+        "dealRating": "GREAT",
+        "sellerBuddyId": 30231580,
+        "createdDate": "2021-01-22T10:38:16.065",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1057695222",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Front Right Bumper/Cover Scratches (3 to 6 inches)",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Hood Dent (3 to 6 inches)",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-26.jpg"
+            },
+            {
+                "label": "Left Rear Bumper/Cover Scratches (5 to 6 inches)",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-27.jpg"
+            },
+            {
+                "label": "Roof Dent (6 to 9 inches)",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-28.jpg"
+            },
+            {
+                "label": "Center Console Cannot stay running (Acceptable)",
+                "url": "inspection-car/appointments/1057695222/spincar/cu-29.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 3414,
+        "cashDownPayment": 22050,
+        "carScores": {
+            "cluster1": 25.108256198465824,
+            "cluster0": 25.082516007125378,
+            "cluster8": 25.486187547445297,
+            "cluster7": 25.03222294896841,
+            "cluster6": 25.01036129426211,
+            "defaultScore": 28.58960199356079,
+            "cluster5": 25.381078511476517,
+            "cluster4": 25.918121814727783,
+            "cluster3": 25.03531849011779,
+            "cluster2": 25.290198475122452
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1000896621",
+        "carName": "Maruti Alto 800",
+        "year": 2016,
+        "fuelType": "Petrol",
+        "kilometerDriven": 14927,
+        "price": 263899,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1000896621/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/21/RZ5ZZC3/v2/exteriorTyres/mainImages/frontleftside_1616853409.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 3450,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Shakti Nagar",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 67458,
+        "registrationNumber": "DL1C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/wggg7C",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 274017,
+        "originalPrice": 268899,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-22T08:08:58.388",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1000896621",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-14.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-15.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-16.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-18.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-20.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-21.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-22.jpg"
+            },
+            {
+                "label": "Hood Dents (1/8 to 1/2 inch)",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-23.jpg"
+            },
+            {
+                "label": "Right Qtr Panel Scratched",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Cargo Area Dent",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Left Apron",
+                "url": "inspection-car/appointments/1000896621/spincar/cu-26.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6130,
+        "cashDownPayment": 39585,
+        "carScores": {
+            "cluster1": 25.166690826416016,
+            "cluster0": 25.168853759765625,
+            "cluster8": 25.072879791259766,
+            "cluster7": 25.45081901550293,
+            "cluster6": 25.00680923461914,
+            "defaultScore": 29.146987915039062,
+            "cluster5": 25.086763381958008,
+            "cluster4": 25.915550231933594,
+            "cluster3": 25.267486572265625,
+            "cluster2": 25.240596771240234
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1100293620",
+        "carName": "Toyota Etios Liva",
+        "year": 2012,
+        "fuelType": "Petrol",
+        "kilometerDriven": 85100,
+        "price": 252099,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1100293620/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/10/R5XYD3Y/v2/exteriorTyres/mainImages/frontleftside_1615634902.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1745,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Bata Chowk",
+        "variant": "G",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 6830,
+        "registrationNumber": "DL3C",
+        "carSource": "GS_CAR",
+        "make": "TOYOTA",
+        "model": "ETIOS LIVA",
+        "lmsShareLink": "https://buy.24c.in/IffArB",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 2,
+        "parkingYardId": 101,
+        "c24Quote": 236650,
+        "originalPrice": 257099,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-02-14T12:36:01.629",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1100293620",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1100293620/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 5856,
+        "cashDownPayment": 37815,
+        "carScores": {
+            "cluster1": 25.2447419911623,
+            "cluster0": 25.14496871829033,
+            "cluster8": 25.09407866001129,
+            "cluster7": 25.133941501379013,
+            "cluster6": 25.086936093866825,
+            "defaultScore": 28.288344860076904,
+            "cluster5": 25.355058699846268,
+            "cluster4": 25.906878411769867,
+            "cluster3": 25.144084379076958,
+            "cluster2": 25.549751937389374
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1002806421",
+        "carName": "Maruti Alto 800",
+        "year": 2018,
+        "fuelType": "Petrol",
+        "kilometerDriven": 23900,
+        "price": 283299,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1002806421/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/22/RZZ6R35/v2/exteriorTyres/mainImages/frontleftside_1617290786.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1703,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Dwarka",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 55829,
+        "registrationNumber": "DL9C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/nrIpB5",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 88,
+        "c24Quote": 287400,
+        "originalPrice": 288299,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-24T07:34:34.781",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1002806421",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-14.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-15.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-16.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-18.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-20.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-21.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1002806421/spincar/cu-22.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Vasant Square Mall, Vasant Kunj, New Delhi",
+        "emiStartingValue": 6580,
+        "cashDownPayment": 42495,
+        "carScores": {
+            "cluster1": 25.150999069213867,
+            "cluster0": 25.173622131347656,
+            "cluster8": 25.08037567138672,
+            "cluster7": 25.568655014038086,
+            "cluster6": 25.00897216796875,
+            "defaultScore": 28.772985458374023,
+            "cluster5": 25.05236053466797,
+            "cluster4": 25.90105438232422,
+            "cluster3": 25.176959991455078,
+            "cluster2": 25.29498863220215
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1012874222",
+        "carName": "Maruti Alto 800",
+        "year": 2014,
+        "fuelType": "Petrol",
+        "kilometerDriven": 42796,
+        "price": 244899,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1012874222/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/6/RZ63Q35/v4/exteriorTyres/mainImages/frontleftside_1618208874.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1092,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Gurgaon",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Faridabad",
+        "registrationState": "Haryana",
+        "isTopSelling": true,
+        "calculatedScore": 15523,
+        "registrationNumber": "HR51",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/xWw7jP",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 88,
+        "c24Quote": 242210,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-09T14:47:09.761",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1012874222",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Roof Multiple Dents/No Paint Damage (PDR-4 dents)",
+                "url": "inspection-car/appointments/1012874222/spincar/cu-25.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Vasant Square Mall, Vasant Kunj, New Delhi",
+        "emiStartingValue": 5688,
+        "cashDownPayment": 36735,
+        "carScores": {
+            "cluster1": 25.169836044311523,
+            "cluster0": 25.12950325012207,
+            "cluster8": 25.169055938720703,
+            "cluster7": 25.324918746948242,
+            "cluster6": 25.011369705200195,
+            "defaultScore": 29.010343551635742,
+            "cluster5": 25.16401481628418,
+            "cluster4": 25.899166107177734,
+            "cluster3": 25.088197708129883,
+            "cluster2": 25.227201461791992
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1058580823",
+        "carName": "Maruti Alto 800",
+        "year": 2014,
+        "fuelType": "Petrol",
+        "kilometerDriven": 37134,
+        "price": 260499,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1058580823/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/15/RZQDY36/v3/exteriorTyres/mainImages/frontleftside_1618048893.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1072,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Noida",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 7181,
+        "registrationNumber": "DL3C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/Pvz46Y",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 267386,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-21T14:46:48.316",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1058580823",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Left Front Door Dent (1 to 2 inches)",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Right Rocker Panel Dent (1 to 2 inches)",
+                "url": "inspection-car/appointments/1058580823/spincar/cu-26.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6051,
+        "cashDownPayment": 39075,
+        "carScores": {
+            "cluster1": 25.23786735534668,
+            "cluster0": 25.135948181152344,
+            "cluster8": 25.129560470581055,
+            "cluster7": 25.44144058227539,
+            "cluster6": 25.066055297851562,
+            "defaultScore": 29.06159019470215,
+            "cluster5": 25.183475494384766,
+            "cluster4": 25.898414611816406,
+            "cluster3": 25.183382034301758,
+            "cluster2": 25.361671447753906
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1054413723",
+        "carName": "Maruti Alto 800",
+        "year": 2015,
+        "fuelType": "Petrol",
+        "kilometerDriven": 49749,
+        "price": 219399,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1054413723/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/7/R5XCYCR/v2/exteriorTyres/mainImages/frontleftside_1613628108.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1168,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Sector 73",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 5490,
+        "registrationNumber": "DL1C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/hKYCZD",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 20,
+        "c24Quote": 235719,
+        "originalPrice": 234399,
+        "dealRating": "GREAT",
+        "sellerBuddyId": 28899241,
+        "createdDate": "2021-02-08T11:06:58.634",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1054413723",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Left Rear Door Multiple Dents/No Paint Damage",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Left Rear Bumper/Cover Multiple Scratches Light",
+                "url": "inspection-car/appointments/1054413723/spincar/cu-26.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- North Gate Plaza, Gujranwala, New Delhi",
+        "emiStartingValue": 5096,
+        "cashDownPayment": 32910,
+        "carScores": {
+            "cluster1": 25.200237274169922,
+            "cluster0": 25.10324478149414,
+            "cluster8": 25.19681167602539,
+            "cluster7": 25.32488441467285,
+            "cluster6": 25.009708404541016,
+            "defaultScore": 28.64468765258789,
+            "cluster5": 25.199115753173828,
+            "cluster4": 25.897666931152344,
+            "cluster3": 25.0964412689209,
+            "cluster2": 25.281198501586914
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1051910724",
+        "carName": "Maruti Alto 800",
+        "year": 2016,
+        "fuelType": "Petrol",
+        "kilometerDriven": 32339,
+        "price": 270199,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1051910724/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/15/RZXC3CC/v2/exteriorTyres/mainImages/frontleftside_1617187604.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1161,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Sector 73",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 468000,
+        "registrationNumber": "DL3C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO 800",
+        "lmsShareLink": "https://buy.24c.in/ch6gQg",
+        "inventoryStatus": "IN_TRANSIT",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 277396,
+        "originalPrice": 275199,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-16T08:05:06.943",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1051910724",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1051910724/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6276,
+        "cashDownPayment": 40530,
+        "carScores": {
+            "cluster1": 25.266704559326172,
+            "cluster0": 25.151351928710938,
+            "cluster8": 25.121835708618164,
+            "cluster7": 25.425861358642578,
+            "cluster6": 25.01338005065918,
+            "defaultScore": 28.914039611816406,
+            "cluster5": 25.16401481628418,
+            "cluster4": 25.896484375,
+            "cluster3": 25.14616584777832,
+            "cluster2": 25.37567901611328
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1004198422",
+        "carName": "Maruti Wagon R",
+        "year": 2008,
+        "fuelType": "Petrol",
+        "kilometerDriven": 38054,
+        "price": 106699,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1004198422/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/01/27/R5DDYYC/v4/exteriorTyres/mainImages/frontleftside_1614424274.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 13059,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "Laxmi Nagar",
+        "variant": "LXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 715000,
+        "registrationNumber": "DL2C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "WAGON R",
+        "lmsShareLink": "https://buy.24c.in/8Bl9hI",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 97373,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": 30231580,
+        "createdDate": "2021-02-02T10:06:15.422",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1004198422",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-14.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-15.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-16.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-18.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-20.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-21.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-22.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-23.jpg"
+            },
+            {
+                "label": "Left Front Fender Multiple Scratches Heavy",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-24.jpg"
+            },
+            {
+                "label": "Hood Dent",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-25.jpg"
+            },
+            {
+                "label": "Right Front Door Multiple Scratches Heavy",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-26.jpg"
+            },
+            {
+                "label": "Right Rear Door Multiple Dents/No Paint Damage",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-27.jpg"
+            },
+            {
+                "label": "Left Tail Light Cracked",
+                "url": "inspection-car/appointments/1004198422/spincar/cu-28.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 2478,
+        "cashDownPayment": 16005,
+        "carScores": {
+            "cluster1": 25.144487142562866,
+            "cluster0": 25.07869417220354,
+            "cluster8": 25.75626575946808,
+            "cluster7": 25.015368919819593,
+            "cluster6": 25.023957481607795,
+            "defaultScore": 28.230897665023804,
+            "cluster5": 25.222391799092293,
+            "cluster4": 25.895175278186798,
+            "cluster3": 25.041897892951965,
+            "cluster2": 25.155255928635597
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1004600923",
+        "carName": "Maruti Alto K10",
+        "year": 2014,
+        "fuelType": "Petrol",
+        "kilometerDriven": 24316,
+        "price": 267499,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1004600923/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/15/RZQZ5QX/v2/exteriorTyres/mainImages/frontleftside_1616409570.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 2508,
+        "bodyType": "Hatchback",
+        "transmission": null,
+        "storeName": "Rohini - Sector 11",
+        "variant": "VXI AMT",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 140000,
+        "registrationNumber": "DL2C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO K10",
+        "lmsShareLink": "https://buy.24c.in/caFZjx",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 2,
+        "parkingYardId": 101,
+        "c24Quote": 254700,
+        "originalPrice": 272499,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-25T11:45:26.221",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1004600923",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1004600923/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6213,
+        "cashDownPayment": 40125,
+        "carScores": {
+            "cluster1": 25.15294075012207,
+            "cluster0": 25.14671516418457,
+            "cluster8": 25.128734588623047,
+            "cluster7": 25.45125961303711,
+            "cluster6": 25.003522872924805,
+            "defaultScore": 29.071590423583984,
+            "cluster5": 25.111948013305664,
+            "cluster4": 25.894197463989258,
+            "cluster3": 25.219240188598633,
+            "cluster2": 25.321765899658203
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1122852127",
+        "carName": "Hyundai i10",
+        "year": 2009,
+        "fuelType": "Petrol",
+        "kilometerDriven": 34845,
+        "price": 184999,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1122852127/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/02/14/R555RXY/v2/exteriorTyres/mainImages/frontleftside_1616486695.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 5264,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Ghaziabad",
+        "variant": "MAGNA 1.2",
+        "isC24Assured": true,
+        "registrationCity": "New Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 328000,
+        "registrationNumber": "DL8C",
+        "carSource": "GS_CAR",
+        "make": "HYUNDAI",
+        "model": "I10",
+        "lmsShareLink": "https://buy.24c.in/fr42Bu",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 20,
+        "c24Quote": 169534,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-02-17T16:38:21.457",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1122852127",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-14.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-15.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-16.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-18.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-20.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-21.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-22.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1122852127/spincar/cu-23.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- North Gate Plaza, Gujranwala, New Delhi",
+        "emiStartingValue": 4297,
+        "cashDownPayment": 27750,
+        "carScores": {
+            "cluster1": 25.219797641038895,
+            "cluster0": 25.211761876940727,
+            "cluster8": 25.070708133280277,
+            "cluster7": 25.094785273075104,
+            "cluster6": 25.00458288518712,
+            "defaultScore": 28.97754192352295,
+            "cluster5": 25.187270775437355,
+            "cluster4": 25.893703997135162,
+            "cluster3": 25.037550896406174,
+            "cluster2": 25.10028298944235
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1050124920",
+        "carName": "Maruti Alto K10",
+        "year": 2014,
+        "fuelType": "Petrol",
+        "kilometerDriven": 22306,
+        "price": 275599,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1050124920/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/6/RZDDR6Y/v2/exteriorTyres/mainImages/frontleftside_1616567569.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 1684,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-Noida",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Ghaziabad",
+        "registrationState": "Uttar Pradesh",
+        "isTopSelling": true,
+        "calculatedScore": 9035,
+        "registrationNumber": "UP14",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "ALTO K10",
+        "lmsShareLink": "https://buy.24c.in/qyOJSD",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 278750,
+        "originalPrice": 280599,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-08T09:43:45.407",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1050124920",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1050124920/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6401,
+        "cashDownPayment": 41340,
+        "carScores": {
+            "cluster1": 25.1418399810791,
+            "cluster0": 25.13228988647461,
+            "cluster8": 25.100282669067383,
+            "cluster7": 25.474205017089844,
+            "cluster6": 25.003265380859375,
+            "defaultScore": 29.128559112548828,
+            "cluster5": 25.0824031829834,
+            "cluster4": 25.892078399658203,
+            "cluster3": 25.33875274658203,
+            "cluster2": 25.21660614013672
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    },
+    {
+        "carId": "1005650620",
+        "carName": "Maruti Swift",
+        "year": 2011,
+        "fuelType": "Petrol",
+        "kilometerDriven": 28153,
+        "price": 279499,
+        "mainImage": {
+            "title": "Front Left Side",
+            "url": "inspection-car/appointments/1005650620/spincar/cu-2.jpg"
+        },
+        "inspectionMainImage": {
+            "title": "Front Left Side",
+            "url": "inspection/2021/03/17/RZXXQ33/v4/exteriorTyres/mainImages/frontleftside_1617635224.jpg"
+        },
+        "baseUrl": "https://fastly-production.24c.in/",
+        "dispositionStatus": "PUBLISHED",
+        "media": null,
+        "city": "New Delhi",
+        "views": 5925,
+        "bodyType": "Hatchback",
+        "transmission": "Manual",
+        "storeName": "HI-North West",
+        "variant": "VXI",
+        "isC24Assured": true,
+        "registrationCity": "Delhi",
+        "registrationState": "Delhi",
+        "isTopSelling": true,
+        "calculatedScore": 28114,
+        "registrationNumber": "DL2C",
+        "carSource": "GS_CAR",
+        "make": "MARUTI",
+        "model": "SWIFT",
+        "lmsShareLink": "https://buy.24c.in/qEuQu0",
+        "inventoryStatus": "STOCK_IN",
+        "ownerNumber": 1,
+        "parkingYardId": 101,
+        "c24Quote": 280538,
+        "originalPrice": null,
+        "dealRating": "GREAT",
+        "sellerBuddyId": null,
+        "createdDate": "2021-03-21T13:14:22.443",
+        "offerCount": null,
+        "threeSixtyViewUrl": "https://spins.spincar.com/cars24production/1005650620",
+        "spinCarImageSync": true,
+        "spinCarMedia": [
+            {
+                "label": "FRONT VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-1.jpg"
+            },
+            {
+                "label": "RIGHT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-2.jpg"
+            },
+            {
+                "label": "RIGHT SIDE VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-3.jpg"
+            },
+            {
+                "label": "RIGHT BACK DIAGONAL (45-DEGREE VIEW)",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-4.jpg"
+            },
+            {
+                "label": "BACK / REAR VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-5.jpg"
+            },
+            {
+                "label": "LEFT BACK DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-6.jpg"
+            },
+            {
+                "label": "LEFT SIDE VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-7.jpg"
+            },
+            {
+                "label": "LEFT FRONT DIAGONAL (45-DEGREE) VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-8.jpg"
+            },
+            {
+                "label": "OPEN BONNET (ENGINE) VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-9.jpg"
+            },
+            {
+                "label": "RIGHT FRONT WHEEL",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-10.jpg"
+            },
+            {
+                "label": "ROOF/SUNROOF",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-11.jpg"
+            },
+            {
+                "label": "DASHBOARD VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-12.jpg"
+            },
+            {
+                "label": "ODOMETER VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-13.jpg"
+            },
+            {
+                "label": "CENTER CONSOLE",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-14.jpg"
+            },
+            {
+                "label": "INFOTAINMENT SYSTEM",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-15.jpg"
+            },
+            {
+                "label": "STEERING WHEEL CLOSE-UP",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-16.jpg"
+            },
+            {
+                "label": "GEAR LEVER",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-17.jpg"
+            },
+            {
+                "label": "RIGHT SIDE FRONT DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-18.jpg"
+            },
+            {
+                "label": "RIGHT SIDE REAR DOOR CABIN VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-19.jpg"
+            },
+            {
+                "label": "DRIVER SIDE DOOR PANEL CONTROLS",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-20.jpg"
+            },
+            {
+                "label": "DRIVER SIDE ADJUSTMENT PANEL",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-21.jpg"
+            },
+            {
+                "label": "BOOT INSIDE VIEW",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-22.jpg"
+            },
+            {
+                "label": "KEY CLOSE-UP",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-23.jpg"
+            },
+            {
+                "label": "SPEAKERS",
+                "url": "inspection-car/appointments/1005650620/spincar/cu-24.jpg"
+            }
+        ],
+        "isCFEnabled": true,
+        "inventoryState": "PUBLISH",
+        "storeCityId": 2,
+        "isFavouriteLms": false,
+        "ownerName": "CARS24- Metro Walk, Rohini, New Delhi",
+        "emiStartingValue": 6492,
+        "cashDownPayment": 41925,
+        "carScores": {
+            "cluster1": 25.31344985961914,
+            "cluster0": 25.133281707763672,
+            "cluster8": 25.152570724487305,
+            "cluster7": 25.379037857055664,
+            "cluster6": 25.00905418395996,
+            "defaultScore": 29.08871078491211,
+            "cluster5": 25.089750289916992,
+            "cluster4": 25.891489028930664,
+            "cluster3": 25.337268829345703,
+            "cluster2": 25.37070655822754
+        },
+        "ciVehicleLocationInfo": null,
+        "ciChargesApplicable": false,
+        "reserved": false,
+        "cars24Owned": false,
+        "warrantyAvailable": false
+    }
+]
