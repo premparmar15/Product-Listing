@@ -1,20 +1,11 @@
-import React, { useEffect } from 'react'
-import { useDispatch, useSelector } from 'react-redux'
-import { useParams } from 'react-router';
-import { fetchProduct, removeProduct } from '../redux/actions/productActions';
+import React from 'react'
+import { useSelector } from 'react-redux'
+
 
 const ProductDetailComp = () => {
-    const dispatch = useDispatch();
-    const {productId} = useParams()
     const product = useSelector((state) => state.selectedProduct);
-    console.log(product)
-    const { image, carName, price, bodyType, description } = product;
-    // useEffect(() => {
-    //     if (productId && productId !== "") dispatch(fetchProduct(productId))
-    //     return () => {
-    //         dispatch(removeProduct())
-    //     }
-    // }, [dispatch,productId])
+    const { carName, price, bodyType, description } = product;
+
     return (
         <div className="ui grid container">
         {Object.keys(product).length === 0 ? (
@@ -25,7 +16,7 @@ const ProductDetailComp = () => {
               <div className="ui vertical divider">AND</div>
               <div className="middle aligned row">
                 <div className="column lp">
-                  <img className="ui fluid image" src={image} alt={bodyType} />
+                  <img className="ui fluid image" src={"../assets/images/frontleftside_1613131901.jpg"} alt={""} />
                 </div>
                 <div className="column rp">
                   <h1>{carName}</h1>

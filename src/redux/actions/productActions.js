@@ -15,10 +15,8 @@ export const fetchProducts = () => async (dispatch) => {
        // console.log(response1);
         dispatch({type: ActionTypes.FATCH_PRODUCTS, payload: response.data})
 }
-export const fetchProduct = (id) => async (dispatch) => {
-    const response = await fakeApiStore.get(`/products/${id}`);
-    //console.log(response);
-    dispatch({type: ActionTypes.SELECTED_PRODUCT, payload: response.data})
+export const fetchProduct = (data) => async (dispatch) => {
+    dispatch({type: ActionTypes.SELECTED_PRODUCT, payload: data})
 }
 export const removeProduct = () => {
     return {
